@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\bin\Debug\net6.0\Collections-Lists-Generics.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\bin\Debug\net6.0\Collections-Lists-Generics.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\bin\Debug\net6.0\Collections-Lists-Generics.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\bin\Debug\net6.0\Collections-Lists-Generics.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\bin\Debug\net6.0\Collections-Lists-Generics.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\obj\Debug\net6.0\Collections-Lists-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\obj\Debug\net6.0\Collections-Lists-Generics.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\obj\Debug\net6.0\Collections-Lists-Generics.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\obj\Debug\net6.0\Collections-Lists-Generics.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\obj\Debug\net6.0\Collections-Lists-Generics.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\obj\Debug\net6.0\refint\Collections-Lists-Generics.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\obj\Debug\net6.0\Collections-Lists-Generics.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\obj\Debug\net6.0\Collections-Lists-Generics.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Collections-Lists-Generics\Collections-Lists-Generics\obj\Debug\net6.0\ref\Collections-Lists-Generics.dll
